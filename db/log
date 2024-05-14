@@ -1,0 +1,27 @@
+Type: request
+ReceivedAt: 2024-05-01 03:45:54.410406 +0500 +05 m=+195.263881001
+Session: 209
+From: 127.0.0.1:65177
+
+GET /appinfo/443030/sha/ad96365d52d820a78c2a1e71728e054ff8f69925.txt.gz HTTP/1.1
+Host: clientconfig.akamai.steamstatic.com
+Accept: text/html,*/*;q=0.9
+Accept-Charset: ISO-8859-1,utf-8,*;q=0.7
+User-Agent: Valve/Steam HTTP Client 1.0
+
+Type: response
+ReceivedAt: 2024-05-01 03:45:54.531197 +0500 +05 m=+195.384674043
+Session: 209
+From: 5.187.64.32:80
+Error: FileStream was never written into
+
+
+
+Type: response
+ReceivedAt: 2024-05-01 03:45:54.531216 +0500 +05 m=+195.384693668
+Session: 209
+From: 5.187.64.32:80
+Error: FileStream was never written into
+
+
+
